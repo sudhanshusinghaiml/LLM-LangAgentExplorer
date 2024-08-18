@@ -1,0 +1,9 @@
+arxiv
+chainlit
+python-dotenv
+langchain-core
+langchain-community
+langchain
+langchain_text_splitters
+langchain-chroma
+langchain-openai
